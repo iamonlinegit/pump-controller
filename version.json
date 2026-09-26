@@ -1,0 +1,8 @@
+{
+    "versionCode": 2,
+    "versionName": "1.0.2",
+    "downloadUrl": "https://gitcode.com/iamonline/pumpcontroller/raw/master/pumpconn-v1.0.2.apk",
+    "forceUpdate": false,
+    "updateLogZh": "1. 优化蓝牙连接稳定性，多轮连接不再卡住\n2. 视频选择显示文件名，自动匹配同名视频\n3. 新增应用内自动更新\n4. 修复视频脚本丢步",
+    "updateLogEn": "1. Improved BLE connection stability\n2. Video picker shows filenames, auto matches video\n3. Added in-app auto update\n4. Fixed known issues"
+  }
